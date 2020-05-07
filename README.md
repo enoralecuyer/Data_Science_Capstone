@@ -4,7 +4,11 @@ Assignments and capstone for the IBM Data Science Professional Certificate, comp
 
 ## View Course
 
-[IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+[IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+## View Certificate
+
+[IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XS9DEFYWGN3E?utm_source=link&utm_campaign=copybutton_certificate)
 
 ## Tools
 
@@ -17,18 +21,15 @@ Assignments and capstone for the IBM Data Science Professional Certificate, comp
 ## Libraries
 
 * [Python](https://www.python.org/)
-* [SQL](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-* [Pandas](https://en.wikipedia.org/wiki/HTML5)
-* [NumPy](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-* [Matplotlib](https://en.wikipedia.org/wiki/JavaScript)
-* [Seaborn](https://en.wikipedia.org/wiki/HTML5)
-* [Folium](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-* [ipython-sql](https://en.wikipedia.org/wiki/HTML5)
-* [Scikit-learn](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-* [ScipPy](https://en.wikipedia.org/wiki/JavaScript)
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Folium](https://python-visualization.github.io/folium/)
+* [ipython-sql](https://pypi.org/project/ipython-sql/)
+* [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 ## Author
 
 **Enora Lecuyer** 
-
