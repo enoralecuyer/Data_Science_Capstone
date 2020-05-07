@@ -10,14 +10,6 @@ Assignments and capstone for the IBM Data Science Professional Certificate, comp
 
 [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/XS9DEFYWGN3E?utm_source=link&utm_campaign=copybutton_certificate)
 
-## Tools
-
-* [Jupyter](https://jupyter.org/)
-* [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
-* [Zeppelin notebooks](https://zeppelin.apache.org/)
-* [R Studio](https://rstudio.com/)
-* [Watson Studio](https://www.ibm.com/cloud/watson-studio)
-
 ## Libraries
 
 * [Python](https://www.python.org/)
@@ -29,6 +21,13 @@ Assignments and capstone for the IBM Data Science Professional Certificate, comp
 * [ipython-sql](https://pypi.org/project/ipython-sql/)
 * [Scikit-learn](https://scikit-learn.org/stable/)
 
+## Tools
+
+* [Jupyter](https://jupyter.org/)
+* [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
+* [Zeppelin notebooks](https://zeppelin.apache.org/)
+* [R Studio](https://rstudio.com/)
+* [Watson Studio](https://www.ibm.com/cloud/watson-studio)
 
 ## Author
 
